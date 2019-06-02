@@ -53,6 +53,7 @@ main>div>input {
 main>div {
 	padding-top: 100%;
 }
+
 </style>
 <script src="https://code.jquery.com/jquery-3.4.0.min.js">
 	
